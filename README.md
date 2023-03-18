@@ -3,3 +3,5 @@
 - Utilizando a API do TMDB
 
 Clique para visitar: http://varzeaflix.epizy.com
+
+<img src="prints/print.png">
