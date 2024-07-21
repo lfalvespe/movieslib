@@ -3,6 +3,6 @@
 - Utilizando a API do TMDB - The movies database
 - Projeto de aula do Matheus Battisti.
 
-Clique para visitar: http://varzeaflix.epizy.com
+Clique para visitar: https://lfalvespe.github.io/movieslib/
 
 <img src="prints/print.png">
